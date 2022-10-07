@@ -13,9 +13,9 @@ var cors = require('cors');
 var querystring = require('querystring');
 var cookieParser = require('cookie-parser');
 
-var client_id = 'CLIENT_ID'; // Your client id
-var client_secret = 'CLIENT_SECRET'; // Your secret
-var redirect_uri = 'REDIRECT_URI'; // Your redirect uri
+var client_id = 'c1f0d3326e6444408420e19c6d4cabcd'; // Your client id
+var client_secret = 'cc95ca9bac394fc5bc1f6c2a0695cbeb'; // Your secret
+var redirect_uri = 'https://autumngreenbean.github.io/reflectify/callback'; // Your redirect uri
 
 /**
  * Generates a random string containing numbers and letters
